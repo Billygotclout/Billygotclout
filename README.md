@@ -1,5 +1,5 @@
-<H1 align='center'>Hi👋🏿, I am The Tech Farmer!</H1>
-<p align='center'>I am a self-taught software engineer with over two years of experience, passionate about technology and dedicated to crafting digital solutions. 🌱 I specialize in full-stack development.
+<H1 align='center'>Hi👋🏿, I am The Tech Farmer!🧑🏿‍🌾💻</H1>
+<p align='center'>I am a self-taught software engineer with over two years of experience, passionate about technology and dedicated to crafting digital solutions. 🌱 specializing in full-stack magic! 💻✨
 </p>
 
 <p align='center'>
@@ -17,8 +17,9 @@
 <!-- <img src="https://gpvc.arturio.dev/blessedmadukoma"> -->
 </p>
 
-- 🤝 Open for collaborations in apps or projects.
-- ⚡ Fun fact: I love playing the guitar 🤩
+- 🚀 Let's Collaborate
+- 👋 JavaScript enthusiast 
+- ⚡ Fun fact: I'm a guitar enthusiast too! 🎸
 
 ---
 
@@ -31,13 +32,16 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![TAILWIND](https://img.shields.io/badge/tailwind-%231552B9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js)&nbsp;
+![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 <!-- ![ReactJS](https://img.shields.io/badge/-react.JS-323330?style=for-the-badge&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.JS-35495E?style=for-the-badge&logo=next.js)&nbsp; -->
 
 <!-- ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask)&nbsp; -->
 
-![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js)&nbsp;
+
 
 ---
 
@@ -46,6 +50,8 @@
 <!-- ![PostgreSQL](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; -->
 
 ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F19011)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
 
 <!-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)&nbsp; -->
 
