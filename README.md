@@ -88,10 +88,11 @@
 📈 <b>My Github Stats</b>
 
 <p align = "center">
-  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=blessedmadukoma&show_icons=true&theme=tokyonight&line_height=40"> -->
+  <img src = "https://github-readme-stats.vercel.app/api?username=billygotclout&show_icons=true&theme=tokyonight&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=billygotclout&&theme=tokyonight">
 </p>
 
-<!-- My GitHub streaks
-<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blessedmadukoma&theme=highcontrast" alt="Blessed's Github streak" />
-</a> -->
+
+ <!-- My GitHub streaks -->
+<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billygotclout&theme=highcontrast" alt="Blessed's Github streak" />
+</a> 
