@@ -1,5 +1,5 @@
 <H1 align='center'>Hi👋🏿, I am The Tech Farmer!</H1>
-<p align='center'>II am a self-taught software engineer with over two years of experience, passionate about technology and dedicated to crafting digital solutions. 🌱 I specialize in full-stack development.
+<p align='center'>I am a self-taught software engineer with over two years of experience, passionate about technology and dedicated to crafting digital solutions. 🌱 I specialize in full-stack development.
 </p>
 
 <p align='center'>
