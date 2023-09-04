@@ -33,6 +33,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![TAILWIND](https://img.shields.io/badge/tailwind-%231552B9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js)&nbsp;
+![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
