@@ -72,6 +72,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
 
 ###
 
