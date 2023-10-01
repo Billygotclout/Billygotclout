@@ -97,5 +97,5 @@
 
 
  <!-- My GitHub streaks -->
-<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billygotclout&theme=highcontrast" alt="Blessed's Github streak" />
+<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billygotclout&theme=highcontrast" alt="Demilade's Github streak" />
 </a> 
