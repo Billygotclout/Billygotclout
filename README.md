@@ -9,10 +9,18 @@
 </a>&nbsp;&nbsp;
 <a href="mailto:williamsoluwademilade@gmail.com">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+
+
+
+  
+
 </a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/demilade-williams/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://thetechfarmer.vercel.app/">
+ <img src="https://img.shields.io/badge/Portfolio-%2336465D.svg?&style=for-the-badge" />
 </a>&nbsp;&nbsp;
 <!-- <img src="https://gpvc.arturio.dev/blessedmadukoma"> -->
 </p>
@@ -55,6 +63,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F19011)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 
 <!-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)&nbsp; -->
