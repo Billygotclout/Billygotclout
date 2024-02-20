@@ -27,16 +27,18 @@
 
 <!-- ![Go](https://img.shields.io/badge/-Golang-29BEB0?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp; -->
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![TAILWIND](https://img.shields.io/badge/tailwind-%231552B9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js)&nbsp;
-![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+
+
 
 <!-- ![ReactJS](https://img.shields.io/badge/-react.JS-323330?style=for-the-badge&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.JS-35495E?style=for-the-badge&logo=next.js)&nbsp; -->
