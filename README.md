@@ -16,6 +16,9 @@
 <a href="https://thetechfarmer.vercel.app/">
  <img src="https://img.shields.io/badge/Portfolio-%2336465D.svg?&style=for-the-badge" />
 </a>&nbsp;&nbsp;
+<a href="https://cold.hashnode.dev/">
+ <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>&nbsp;&nbsp;
 <!-- <img src="https://gpvc.arturio.dev/blessedmadukoma"> -->
 </p>
 
